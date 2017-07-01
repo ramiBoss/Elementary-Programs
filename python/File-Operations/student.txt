@@ -1,0 +1,17 @@
+(i__main__
+Student
+p0
+(dp1
+S'enroll'
+p2
+S'GE0317'
+p3
+sS'age'
+p4
+S'24'
+p5
+sS'name'
+p6
+S'RAMIZUDDIN KHAN'
+p7
+sb.
